@@ -22,7 +22,7 @@
 9. Создайте отдельную ветку `feature/add_reply` в репозитории.  
 ![branch](./images/9.png)  
 10. Напишите новый метод для класса Welcomer: метод должен возвращать произвольную реплику, содержащую слово `hunter`.  
-дополнил :
+
 
 example-teamcity/src/main/java/plaindoll/HelloPlayer.java 
 
